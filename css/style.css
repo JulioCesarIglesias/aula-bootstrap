@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #3a3a3a;
+    color: seashell;
+}
+
+.navbar {
+    /*background-color: #252525;*/
+    background-color: red;
+}
+
+section{
+    background-color: #252525;
+}
+
+h2{
+    margin-bottom: 50px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.quem-somos h4{
+    margin-top: 20px;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros h2{
+    margin-bottom: 60px;
+}
+
+.servicos{
+    padding-bottom: 50px;
+}
+
+.bg-footer{
+    background-color: red;
+    margin: 0;
+}
